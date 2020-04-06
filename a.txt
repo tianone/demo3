@@ -1,3 +1,7 @@
 aaaa
+<<<<<<< HEAD
 xiugai
 2222
+=======
+xiugai
+>>>>>>> dev
